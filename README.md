@@ -11,3 +11,6 @@ It turns out there are three common approaches:
 By wirting mock contracts, you might feel like you are developing protocol from the scratch and forking off mainnet is not yet bug-free and fast as we would like.
 This package is going to help developers deploy the protocols locally. 
 
+Note:
+I started making this when forking off mainnet was not as smooth as it is now.
+
