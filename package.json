@@ -21,7 +21,7 @@
   "homepage": "https://github.com/yashnaman/legos-deployer#readme",
   "devDependencies": {},
   "dependencies": {
-    "@truffle/contract": "^4.0.35 <4.2.2",
+    "@truffle/contract": "^4.6.10",
     "web3": "^1.2.11"
   }
 }
